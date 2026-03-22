@@ -4,6 +4,10 @@
 
 [Live Demo Link](http://example.com)
 
+## NOTE
+
+For further and complete information about the specs and detailed information on the project read `DOCUMENTATION.md` file in this repository.
+
 ## ⚠️ Disclaimer
 
 The images used are illustrative/placeholder and not real school images due to lack of access. This project is a prototype/MVP for how the final website should look after development.

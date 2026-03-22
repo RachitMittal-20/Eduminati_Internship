@@ -1,9 +1,5 @@
 # Project Title
 
-## Live Demo
-
-[Live Demo Link](http://example.com)
-
 ## NOTE
 
 For further and complete information about the specs and detailed information on the project read `DOCUMENTATION.md` file in this repository.

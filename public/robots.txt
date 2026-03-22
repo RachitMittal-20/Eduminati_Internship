@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /_next/
+Disallow: /api/
+
+Sitemap: https://eduminati-boarding-guide.com/sitemap.xml
+
+# Google-specific rules
+User-agent: Googlebot
+Allow: /
+
+# Bing-specific rules
+User-agent: Bingbot
+Allow: /
+
+# Crawl delay for other bots
+User-agent: *
+Crawl-delay: 1

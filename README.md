@@ -31,9 +31,3 @@ The images used are illustrative/placeholder and not real school images due to l
 3. Run the development server: `npm run dev`
 4. Build the project: `npm run build`
 5. Start the application: `npm start`
-
-## Existing Sections
-
-### Other Existing Content
-
-Keep all other sections of the README unchanged.
